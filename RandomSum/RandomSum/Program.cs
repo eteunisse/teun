@@ -7,6 +7,7 @@ namespace RandomSum
 {
 	public static class RandomNumber
 	{
+		//Trying to get a more random number
 		private static readonly RNGCryptoServiceProvider generator = new RNGCryptoServiceProvider();
 
 		public static int Between(int minimumValue, int maximumValue)
