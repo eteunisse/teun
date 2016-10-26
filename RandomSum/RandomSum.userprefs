@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{4B236777-43FB-402A-ACC3-EC4840EF79C4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RandomSum/Program.cs">
+    <Files>
+      <File FileName="RandomSum/Program.cs" Line="16" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RandomSum PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
